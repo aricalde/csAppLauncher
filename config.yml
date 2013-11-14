@@ -1,0 +1,8 @@
+app:
+    name:
+    url:
+dependencies:
+  - name:
+    url:
+local_storage:
+
